@@ -35,4 +35,4 @@ sysinfo.txt
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.db*.tgz 
