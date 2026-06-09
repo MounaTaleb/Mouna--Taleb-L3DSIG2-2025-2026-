@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "62094153295",
+    "firebase_url": "https://viroguard-b69de-default-rtdb.firebaseio.com",
+    "project_id": "viroguard-b69de",
+    "storage_bucket": "viroguard-b69de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62094153295:android:e481916cfdc3bd6dc7bc3a",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ViroGuard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzakHKcdC3nYmc3rxLuUhIyaZZraYn5dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<linker>
+  <assembly fullname="UnityEngine">
+    <type fullname="UnityEngine.AndroidJavaClass" preserve="all"/>
+    <type fullname="UnityEngine.AndroidJavaObject" preserve="all"/>
+  </assembly>
+  <assembly fullname="Unity.XR.ARFoundation" preserve="all"/>
+  <assembly fullname="Unity.XR.ARCore" preserve="all"/>
+</linker>
