@@ -19,9 +19,7 @@
 
 > 🎓 **Stage de Fin d'Études · ISET Djerba · L3 DSI · 2025/2026**
 >
-> 👩‍💻 **Taleb Mouna** &nbsp;·&nbsp; Encadrée par **Mme Ben Younes Nassima** &nbsp;·&nbsp; **CGI Studio**
 
-<br/>
 
 [![Rapport PDF](https://img.shields.io/badge/📄%20Rapport%20PDF-Télécharger-red?style=for-the-badge)](https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/Rapport%20de%20stage%20mouna.pdf)
 
@@ -216,8 +214,8 @@ File → Build Settings → Build
 
 <br/>
 
-Made with ❤️ by **Taleb Mouna** — ISET Djerba · 2025/2026
+Made with ❤️ by **Taleb Mouna** 
 
-🛡️ *Malware Hunter — Apprendre la cybersécurité en jouant*
+🛡️ *Malware Hunter *
 
 </div>
