@@ -1,4 +1,4 @@
-# Dossiers générés automatiquement (très lourds, inutiles sur GitHub)
+# Dossiers générés automatiquement
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -35,4 +35,24 @@ sysinfo.txt
 
 # OS
 .DS_Store
-Thumbs.db*.tgz 
+Thumbs.db
+
+# Fichiers trop lourds
+*.tgz
+*.zip
+*.bundle
+*.so
+
+# Dossiers Assets lourds inutiles
+Assets/Firebase/
+Assets/Plugins/
+Assets/Editor/
+Assets/Editor 1/
+Assets/ExternalDependencyManager/
+Assets/Extras/
+Assets/GeneratedLocalRepo/
+Assets/LoafbrrAssets/
+Assets/StarterAssets/
+Assets/StreamingAssets/
+Assets/Free Low Poly Modular Character Pack - Fantasy Dream/
+Assets/VNB - Office Set/
