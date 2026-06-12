@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/logo.png" width="220"/>
+<img src="https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/logo.png?raw=true" width="220"/>
 
 # MALWARE HUNTER
 ### *Eliminate The Threat*
@@ -18,10 +18,8 @@
 <br/>
 
 > 🎓 **Stage de Fin d'Études · ISET Djerba · L3 DSI · 2025/2026**
->
 
-
-[![Rapport PDF](https://img.shields.io/badge/📄%20Rapport%20PDF-Télécharger-red?style=for-the-badge)](https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/Rapport%20de%20stage%20mouna.pdf)
+[![Rapport PDF](https://img.shields.io/badge/📄%20Rapport%20PDF-Télécharger-red?style=for-the-badge)](https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/Rapport%20de%20stage%20mouna.pdf?raw=true)
 
 </div>
 
@@ -57,7 +55,7 @@ Le nombre de malwares a explosé de **17 millions en 2008** à **plus d'1 millia
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/menu.png" width="90%"/>
+<img src="https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/menu.png?raw=true" width="90%"/>
 
 > 🔐 *Menu Principal — Authentification*
 
@@ -65,23 +63,23 @@ Le nombre de malwares a explosé de **17 millions en 2008** à **plus d'1 millia
 
 | 🧍 Sélection du personnage | 🎨 Personnalisation |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/select_character.png" width="100%"/> | <img src="https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/customize.png" width="100%"/> |
+| <img src="https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/select_character.png?raw=true" width="100%"/> | <img src="https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/customize.png?raw=true" width="100%"/> |
 
 <br/>
 
 | 🏙️ Gameplay Niveau 2 | 🕵️ Combat Spyware |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/level2_gameplay.png" width="100%"/> | <img src="https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/spyware_combat.png" width="100%"/> |
+| <img src="https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/level2_gameplay.png?raw=true" width="100%"/> | <img src="https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/spyware_combat.png?raw=true" width="100%"/> |
 
 <br/>
 
 | 💻 Terminal CMD | 🧠 Quiz Cybersécurité |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/terminal.png" width="100%"/> | <img src="https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/quiz.png" width="100%"/> |
+| <img src="https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/terminal.png?raw=true" width="100%"/> | <img src="https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/quiz.png?raw=true" width="100%"/> |
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/AR.jpeg" width="90%"/>
+<img src="https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/AR.jpeg?raw=true" width="90%"/>
 
 > 🔬 *Module AR Hardware Explorer — Visualisation GPU en réalité augmentée*
 
@@ -99,7 +97,7 @@ Le nombre de malwares a explosé de **17 millions en 2008** à **plus d'1 millia
 | 💃 Animation | Mixamo (Adobe) | — |
 | 🔐 Authentification | Firebase Authentication | — |
 | 🗄️ Base de données | Firebase Realtime Database | — |
-| 🔔 Notifications | Firebase Cloud Messaging | — |
+| 🔔 Notifications | Unity Local Notifications | com.unity.localnotifications |
 | 🔬 Réalité Augmentée | AR Foundation + Google ARCore | 5.2.2 |
 | 🧭 IA Navigation | Unity AI Navigation (NavMesh) | 1.1.7 |
 | 📐 Diagrammes UML | diagrams.net | — |
@@ -116,9 +114,9 @@ Le nombre de malwares a explosé de **17 millions en 2008** à **plus d'1 millia
 📦 com.unity.xr.arcore                  latest  → ARCore Android
 📦 com.unity.inputsystem                latest  → Contrôles tactiles
 📦 com.unity.textmeshpro                latest  → Interface UI
+📦 com.unity.localnotifications         latest  → Notifications locales Android
 📦 com.google.firebase.auth             latest  → Authentification
 📦 com.google.firebase.database         latest  → Realtime Database
-📦 com.google.firebase.messaging        latest  → Notifications push
 ```
 
 > 💡 **Git LFS** gère les fichiers lourds : `.fbx` `.png` `.jpg` `.wav` `.mp3` `.asset` `.unity` `.prefab`
@@ -210,12 +208,12 @@ File → Build Settings → Build
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/main/logo.png" width="100"/>
+<img src="https://github.com/MounaTaleb/Mouna--Taleb-L3DSIG2-2025-2026-/blob/main/logo.png?raw=true" width="100"/>
 
 <br/>
 
-Made with ❤️ by **Taleb Mouna** 
+Made with ❤️ by **Taleb Mouna**
 
-🛡️ *Malware Hunter *
+🛡️ *Malware Hunter*
 
 </div>
